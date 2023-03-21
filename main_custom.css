@@ -1,0 +1,23 @@
+@import url(https://mof1.github.io/cdn/MOF1_CSS_default/configs.css);
+@import url(https://mof1.github.io/krunker_css/css/main_custom.css);
+
+/*Overrides*/
+:root{
+--splash-logo: url("https://cdn.discordapp.com/attachments/1086560502219558973/1086560923688386571/CSS-Maker_11.png");
+--profile-pic: url("https://cdn.discordapp.com/attachments/1086560502219558973/1086561390703157310/AVATARS_VALUE.png");
+--profile-pic-op: 0;
+--profile-pic-sp: "";
+--blur-radius1: 20px;
+--blur-radius2: 5px;
+--sidebarIconColorOnHover: #ffffff;
+--sidebarIconBgOnHover: #ffffff12;
+--accentColor: #0fd6b8ff;
+--accentColorST: #37af9569;
+--gradientColor4: #84a1ff;
+--gradientColor3: #39ffd4;
+--purple: #987bff;
+--purple-dark: #592bff;
+--orange: #ff9ea2;
+--orange-dark: #ff3943;
+--yellow: #ffeb3b;
+--yellow-dark: #c0b029ff;}
